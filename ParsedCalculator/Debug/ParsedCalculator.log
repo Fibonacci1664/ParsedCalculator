@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\Visual_Studio_Projects_Cpp_book\Projects\ParsedCalculator\ParsedCalculator\Main.cpp(83): warning C4715:  'getValue': not all control paths return a value
+D:\Visual_Studio_Projects_Cpp_book\Projects\ParsedCalculator\ParsedCalculator\Main.cpp(244): warning C4715:  'Token_stream::get': not all control paths return a value
+D:\Visual_Studio_Projects_Cpp_book\Projects\ParsedCalculator\ParsedCalculator\Main.cpp(290): warning C4715:  'primary': not all control paths return a value
+  ParsedCalculator.vcxproj -> D:\Visual_Studio_Projects_Cpp_book\Projects\ParsedCalculator\Debug\ParsedCalculator.exe

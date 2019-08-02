@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 248 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ParsedCalculator.vcxproj -> D:\Visual_Studio_Projects_Cpp_book\Projects\ParsedCalculator\x64\Release\ParsedCalculator.exe
